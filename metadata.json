@@ -1,0 +1,8 @@
+{
+  "name": "寂静的木头",
+  "description": "岁月如木，静默成林。一个计算与父母相处剩余时间的温情工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
